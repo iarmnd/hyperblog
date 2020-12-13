@@ -1,2 +1,1 @@
-Esta es una prueba mas elaborada
-se necesita poner atencion
+Este es un nuevo archivo, test
